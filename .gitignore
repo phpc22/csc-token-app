@@ -28,3 +28,14 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Certificados digitais
+*.pfx
+*.p12
+*.jks
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
