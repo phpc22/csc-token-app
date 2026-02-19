@@ -1,3 +1,5 @@
+import ui.Layout;
+
 import javax.swing.*;
 
 public class CSCTokenApp extends JFrame {

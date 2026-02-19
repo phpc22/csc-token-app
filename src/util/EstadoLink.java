@@ -1,3 +1,5 @@
+package util;
+
 public class EstadoLink {
     public static String getLinkPorEstado(String sigla){
         switch (sigla){

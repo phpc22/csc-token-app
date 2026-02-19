@@ -39,3 +39,10 @@ bin/
 
 # Arquivos temporários
 *.tmp
+
+.idea
+.vscode
+*.iml
+out/
+target/
+certificados/
